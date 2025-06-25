@@ -1,4 +1,13 @@
-## Hi there 👋
+![Banner](assets/banner.png)
+
+## **ɪ'ᴍ ᴀɴᴛʜᴏɴʏ😎**
+
+---
+
+BSCS Student
+
+- 🔭 I’m currently working on CS50x final project
+- 🌱 I’m currently learning many things
 
 <!--
 **anthonyA1214/anthonyA1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
