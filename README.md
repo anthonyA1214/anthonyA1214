@@ -1,52 +1,92 @@
-![Banner](assets/banner.png)
+<!-- Banner -->
+<img src="assets/banner3.png" width="100%" alt="Banner">
 
-## **ɪ'ᴍ ᴀɴᴛʜᴏɴʏ😎**
+<!-- Header -->
+<h1 align="center">
+  ɪ'ᴍ ᴀɴᴛʜᴏɴʏ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+</h1>
 
----
-
-🎓 Bachelor of Science in Computer Science (BSCS) Student 
-💻 Passionate about coding, learning new tech, and building cool projects  
-🌱 Currently exploring: Web development
-📚 Always eager to grow and collaborate on fun & meaningful projects   
-
----
-
-## 🛠️ Tools I Use
-- Visual Studio & VS Code  
-- Git & GitHub  
-- Flask (for small web projects)
+<p align="center">BSCS Student</p>
 
 ---
 
-## 📂 Projects
-Here are some things I’ve worked on:
-- 📘 **Library Management System** (WinForms + SQL Server)  
-- 🌐 **Web Novel Reader Site** *(currently working on)* (Flask + Bootstrap)
+### <img src="assets/star.gif" width="15"> ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪
 
-> Visit my repositories to learn more 👇
-
----
-
-## 📫 Let's Connect
-- **GitHub**: [@anthonyA1214](https://github.com/anthonyA1214)
-- **Email**: amiluddinanthonybscs@gmail.com
+- 🎓 Bachelor of Science in Computer Science  
+- 💻 Passionate about coding, learning new tech, and building cool projects  
+- 🌱 Currently exploring: **Web Development**  
+- 📚 Always eager to grow and collaborate on fun & meaningful projects  
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+### <img src="assets/wrenchin.gif" width="15"> ​🇹​​🇴​​🇴​​🇱​​🇸​ ​🇮​ ​🇺​​🇸​​🇪​
 
 
-<!--
-**anthonyA1214/anthonyA1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,flask,html,css,bootstrap,py,c,discord" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="assets/kao_file-folder.gif" width="15"> ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​
+
+
+#### <img src="assets/hammer.gif" width="15"> What I’ve Built
+
+-  **Library Management System**  
+  *(WinForms + SQL Server)*  
+-  **Web Novel Reader Site** *(WIP)*  
+  *(Flask + Bootstrap)*
+
+> <img src="assets/magnify.gif" width="15"> Explore more in my pinned repositories below <img src="assets/arrow-down.gif" width="15">
+
+---
+
+### <img src="assets/bars.gif" width="15"> ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ ​🇸​​🇹​​🇦​​🇹​​🇸​
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonyA1214&show_icons=true&theme=tokyonight" alt="Anthony's GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=anthonyA1214&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### <img src="assets/trophy.gif" width="15"> ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ ​🇹​​🇷​​🇴​​🇵​​🇭​​🇮​​🇪​​🇸​
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anthonyA1214&theme=monokai&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+### <img src="assets/hot_fire.gif" width="15"> ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​ ​🇬​​🇷​​🇦​​🇵​​🇭​
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyA1214&theme=react-dark" />
+</p>
+
+---
+
+### <img src="assets/mailbox_knuddels.gif" width="25"> ​🇱​​🇪​​🇹​❜​🇸​ ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​
+
+<p align="center">
+  <a href="mailto:amiluddinanthonybscs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/anthonyA1214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/stars.gif" width="15"> <i>Thanks for stopping by! Feel free to check out my work and reach out!</i> 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer"/>
+</p>
