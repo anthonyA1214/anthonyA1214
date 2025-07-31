@@ -33,10 +33,11 @@
 
 #### <img src="assets/hammer.gif" width="15"> What I’ve Built
 
--  **Library Management System**  
-  *(WinForms + SQL Server)*  
--  **Web Novel Reader Site** *(WIP)*  
-  *(Flask + Bootstrap)*
+- 📚 **Library Management System**  
+   *Built with:* WinForms + SQL Server
+
+- 📖 **Web Novel Reader Site** *(WIP)*  
+   *Built with:* Flask + Bootstrap
 
 > <img src="assets/magnify.gif" width="15"> Explore more in my pinned repositories below <img src="assets/arrow-down.gif" width="15">
 
@@ -52,10 +53,10 @@
 
 ---
 
-### <img src="assets/trophy.gif" width="15"> ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ ​🇹​​🇷​​🇴​​🇵​​🇭​​🇮​​🇪​​🇸​
+### <img src="assets/trophy.gif" width="15"> ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ 🇹​​🇷​​🇴​​🇵​​🇭​​🇮​​🇪​​🇸​
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anthonyA1214&theme=monokai&no-frame=true&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anthonyA1214&theme=tokyonight&no-frame=true&row=2&column=3" />
 </p>
 
 ---
@@ -63,7 +64,7 @@
 ### <img src="assets/hot_fire.gif" width="15"> ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​ ​🇬​​🇷​​🇦​​🇵​​🇭​
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyA1214&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyA1214&theme=tokyo-night" />
 </p>
 
 ---
@@ -72,13 +73,16 @@
 
 <p align="center">
   <a href="mailto:amiluddinanthonybscs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/anthonyA1214"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/anthonyA1214" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/its_anthony_here/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@its_anthony_here?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.facebook.com/anthony.amiluddin.710" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=transparent" />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark" />
 </p>
 
 ---
