@@ -2,15 +2,15 @@
 <img src="assets/banner3.png" width="100%" alt="Banner">
 
 <!-- Header -->
-<h1 align="center">
-  ɪ'ᴍ ᴀɴᴛʜᴏɴʏ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
-</h1>
+<h3 align="center">
+   ɪ'ᴍ ᴀɴᴛʜᴏɴʏ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+</h3>
 
-<p align="center">BSCS Student</p>
+<p align="center"><i>BS Computer Science Student | University of Caloocan City</i></p>
 
 ---
 
-### <img src="assets/star.gif" width="15"> ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪
+### <img src="assets/Flower Sticker.gif" width="15"> ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪
 
 - 🎓 Bachelor of Science in Computer Science  
 - 💻 Passionate about coding, learning new tech, and building cool projects  
@@ -19,19 +19,19 @@
 
 ---
 
-### <img src="assets/wrenchin.gif" width="15"> ​🇹​​🇴​​🇴​​🇱​​🇸​ ​🇮​ ​🇺​​🇸​​🇪​
+### <img src="assets/on-process-dig.gif" width="15"> ​🇹​​🇴​​🇴​​🇱​​🇸​ ​🇮​ ​🇺​​🇸​​🇪​
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,flask,html,css,bootstrap,py,c,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,flask,html,css,bootstrap,py,c,discord,laravel,php,tailwindcss" />
 </p>
 
 ---
 
-### <img src="assets/kao_file-folder.gif" width="15"> ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​
+### <img src="assets/Letter Send Sticker by MTARGET.gif" width="15"> ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​
 
 
-#### <img src="assets/hammer.gif" width="15"> What I’ve Built
+#### <img src="assets/Angry How Dare You Sticker by lilpotates.gif" width="15"> What I’ve Built
 
 - 📚 **Library Management System**  
    *Built with:* WinForms + SQL Server
@@ -39,7 +39,7 @@
 - 📖 **Web Novel Reader Site** *(WIP)*  
    *Built with:* Flask + Bootstrap
 
-> <img src="assets/magnify.gif" width="15"> Explore more in my pinned repositories below <img src="assets/arrow-down.gif" width="15">
+> <img src="assets/Confused Look Sticker by Pudgy Penguins.gif" width="15"> Explore more in my pinned repositories below <img src="assets/arrow-down.gif" width="15">
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-### <img src="assets/trophy.gif" width="15"> ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ 🇹​​🇷​​🇴​​🇵​​🇭​​🇮​​🇪​​🇸​
+### <img src="assets/trophy-beker.gif" width="15"> ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ 🇹​​🇷​​🇴​​🇵​​🇭​​🇮​​🇪​​🇸​
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anthonyA1214&theme=tokyonight&no-frame=true&row=2&column=3" />
@@ -61,10 +61,17 @@
 
 ---
 
-### <img src="assets/hot_fire.gif" width="15"> ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​ ​🇬​​🇷​​🇦​​🇵​​🇭​
+### <img src="assets/fire-flame.gif" width="15"> ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​ ​🇬​​🇷​​🇦​​🇵​​🇭​
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyA1214&theme=tokyo-night" />
+</p>
+
+---
+
+### <img src="assets/the-blobs-live-on-thinking.gif" width="15"> ​🇹​​🇭​​🇴​​🇺​​🇬​​🇭​​🇹​ ​🇴​​🇫​ ​🇹​​🇭​​🇪​ ​🇩​​🇦​​🇾​
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark" />
 </p>
 
 ---
@@ -77,12 +84,6 @@
   <a href="https://www.instagram.com/its_anthony_here/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@its_anthony_here?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://www.facebook.com/anthony.amiluddin.710" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark" />
 </p>
 
 ---
