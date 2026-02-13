@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,flask,html,css,bootstrap,py,c,discord,laravel,php,tailwindcss,react,nextjs,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,discord,tailwindcss,react,nextjs,postman,nestjs,linux,postgresql,mysql" />
 </p>
 
 ---
@@ -39,3 +39,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer"/>
 
 </p>
+
