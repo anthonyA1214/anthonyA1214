@@ -39,9 +39,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyA1214&theme=nord&hide_border=true" width="70%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyA1214&theme=nord&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer"/>
 </p>
+
