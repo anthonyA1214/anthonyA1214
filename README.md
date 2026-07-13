@@ -25,7 +25,7 @@
 ### Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,tailwindcss,react,nextjs,nestjs,postgresql,mysql,linux,postman,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,tailwindcss,react,nextjs,nestjs,django,fastapi,expressjs,neovim,vim,postgresql,mysql,linux,postman,discord" />
 </p>
 
 ---
